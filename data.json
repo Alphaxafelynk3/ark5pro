@@ -1,0 +1,11 @@
+{
+  "users": [
+    {
+      "email": "admin@example.com",
+      "password": "$2b$10$L6tqo/Q7DX9infg9sK8veOyDGapyHVkL5YpRHcC7O9ck/.RQvTID6",
+      "role": "admin",
+      "wallet": 500,
+      "referralCode": "adminReferral"
+    }
+  ]
+}
